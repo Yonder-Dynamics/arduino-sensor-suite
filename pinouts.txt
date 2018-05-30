@@ -1,0 +1,7 @@
+BMP180 Pressure Sensor:
+  SDA: A0
+  SCL: A1
+UV Sensor
+  AOUT A6
+DHT11 Humidity & Temperature Sensor 
+  DAT  A7
